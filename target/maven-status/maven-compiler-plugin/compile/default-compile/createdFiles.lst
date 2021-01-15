@@ -1,0 +1,7 @@
+fossteroids\gamecomponents\Spaceship.class
+fossteroids\gamecomponents\Asteroid.class
+fossteroids\gamecomponents\Projectile.class
+fossteroids\gamecomponents\AbstractComponent.class
+fossteroids\gamecomponents\PolygonFactory.class
+fossteroids\main\AsteroidsApplication.class
+fossteroids\main\AsteroidsApplication$1.class
